@@ -1,0 +1,4 @@
+applications:
+- name: distracted-banach
+  memory: 128M
+  host: distracted-banach
